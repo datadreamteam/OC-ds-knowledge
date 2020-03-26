@@ -41,6 +41,7 @@ Final presentation and prototyping
 Tools
 ------
   * [Jupyter](https://jupyter.org/) Notebooks and more with Jupyter lab!
+  * [Jupyter Notebooks Extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) Some very useful extensions to enrich the Jupyter Notebook experience
   * [virtualenv](https://python-guide-pt-br.readthedocs.io/fr/latest/dev/virtualenvs.html) Organize your libraries for each project.
   * [cookiecutter](https://github.com/cookiecutter/cookiecutter) :heart: Create a clean repository for new project with cool features !
      *  List of available templates [cookiecutter-templates](http://cookiecutter-templates.sebastianruml.name/)
