@@ -27,6 +27,12 @@ Geography
   * [geopandas](https://geopandas.org/) Really usefull for geographical data.
   * [folium](https://python-visualization.github.io/folium/) Python wrapper around leaflet.js. Build interactive maps. 
   
+ML and deeplearning
+----------------------
+  * [Scikit-learn](https://scikit-learn.org/stable/)
+  * [Keras](https://keras.io/)
+  * [Tensorflow](https://www.tensorflow.org/)
+  
 Final presentation and prototyping
 ------------------------------------
   * [streamlit](https://www.streamlit.io/) Fast prototype building.
@@ -40,12 +46,16 @@ Tools
      *  List of available templates [cookiecutter-templates](http://cookiecutter-templates.sebastianruml.name/)
 
 Courses and tutorials
-----------------------
+======================
   * [Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow](https://www.amazon.fr/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B07XGF2G87/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Hands-on+Machine+Learning+with+Scikit-Learn%2C+Keras+%26+TensorFlow&qid=1585234967&sr=8-1)
 
+Others ressources
+-------------------
+  * [Awesome ML](https://github.com/josephmisiti/awesome-machine-learning)
+  * [Awesome Python](https://github.com/vinta/awesome-python)
 
 How to contribute
---------------------
+=====================
 
 Edit this file !
 
