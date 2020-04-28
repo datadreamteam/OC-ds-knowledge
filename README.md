@@ -62,7 +62,8 @@ Others ressources
 -------------------
   * [Awesome ML](https://github.com/josephmisiti/awesome-machine-learning)
   * [Awesome Python](https://github.com/vinta/awesome-python)
-
+  * [Awesome Public datasets](https://github.com/awesomedata/awesome-public-datasets)
+  
 How to contribute
 =====================
 
